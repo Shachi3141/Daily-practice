@@ -1,2 +1,2 @@
 # Daily-practice
-Here i dump daily practice programing (raw program), which may use in future!!
+Here i dump daily practice programing (raw program), which may be usefull in future!!
