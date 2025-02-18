@@ -6,4 +6,4 @@ Here i dump daily practice programing (raw program), which may be usefull in fut
 
 ![Ising phase seperation(T=0.01)](https://github.com/Shachi3141/Daily-practice/blob/main/Ising%20phase%20seperation(T%3D0.01).gif)
 
-[lorenz_plot.pdf](https://github.com/user-attachments/files/18852342/lorenz_plot.pdf)
+![lorenz_plot.pdf](https://github.com/user-attachments/files/18852342/lorenz_plot.pdf)
