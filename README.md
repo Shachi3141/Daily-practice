@@ -8,3 +8,5 @@ Here i dump daily practice programing (raw program), which may be usefull in fut
 
 
 ![lorenz_plot](https://github.com/user-attachments/assets/3f7fdf56-632f-44ea-a40e-f6c299b1eb53)
+
+<img width="958" alt="coloured sublattice" src="https://github.com/user-attachments/assets/16efdb50-6385-406f-9a4f-7ce99d6a77c0" />
