@@ -413,8 +413,6 @@ def show_transformed_results(step, original, transformed):
 
 
 
-
-
 # [Rest of your main execution code]
 if __name__ == '__main__':
     image_path = 'My_image.jpg'  # Your image path
