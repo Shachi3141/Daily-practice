@@ -17,4 +17,4 @@ Here i dump daily practice programing (raw program), which may be usefull in fut
 
 # Rotating flower
 
-![Rotating_flower}(https://github.com/Shachi3141/Daily-practice/blob/main/flower_to_network.gif)
+![Rotating_flower](https://github.com/Shachi3141/Daily-practice/blob/main/flower_to_network.gif)
